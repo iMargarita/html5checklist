@@ -1,9 +1,4 @@
 <h1>HTML Checklist </h1>
-<style media="screen" type="text/css">
-.contentListUl li {
-  margin-top:1em;
-}
-</style>
 
 <div>It is enough to check the first 5 items of the list before you deliver a markup to the client. For production, check the first 6 of them.</div>
 <div>
